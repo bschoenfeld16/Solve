@@ -154,7 +154,7 @@ public class GUI extends JComponent {
                 + "Max DEQUE size: ");
         stats.setEditable(false);
 
-        
+        //git test       
         southPanel.add(stats);
 
         wrapperPanel.add(southPanel, BorderLayout.SOUTH);
